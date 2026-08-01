@@ -1,8 +1,8 @@
 WEB DEVELOPMENT PROJECTS
 
 PROJECT - 1 : RJ Technology Training Institute Website (HTML, CSS)
-Algorithm:
 
+Algorithm:
 1. Start by creating multiple HTML documents:
     Home.html, About.html, Contact.html, Frontend.html, Backend.html, Apply.html, and OnlineTraining.html.
 2. On each page, add a common navbar with the site name "RJ Technology" and links to Home, About, Courses, Online Training, and Contact.

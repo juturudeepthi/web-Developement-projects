@@ -16,7 +16,4 @@ Algorithm:
 10. Style all pages using CSS with Flexbox, Grid, hover effects, and animations.
 11. Add a common footer with contact info and social media links on every page.
 12. Test the website by clicking through all pages, links, popups, and dropdowns.
-    ## Home page
- ![image alt](https://github.com/juturudeepthi/web-Developement-projects/blob/5beeb35213f4e2ac5998c4b0515ed1b53abbe4d1/Screenshot%202026-08-01%20212328.png)
-
- ![image alt](https://github.com/juturudeepthi/web-Developement-projects/blob/28c2d39515342de453262b2ce966660f5f9b98dc/Screenshot%202026-08-01%20212403.png)
+ 

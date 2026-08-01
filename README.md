@@ -18,3 +18,5 @@ Algorithm:
 12. Test the website by clicking through all pages, links, popups, and dropdowns.
     ## Home page
  ![image alt](https://github.com/juturudeepthi/web-Developement-projects/blob/5beeb35213f4e2ac5998c4b0515ed1b53abbe4d1/Screenshot%202026-08-01%20212328.png)
+
+ ![image alt](https://github.com/juturudeepthi/web-Developement-projects/blob/28c2d39515342de453262b2ce966660f5f9b98dc/Screenshot%202026-08-01%20212403.png)
